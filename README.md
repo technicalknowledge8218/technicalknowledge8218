@@ -1,12 +1,16 @@
 <div align="center">
 
-  <!-- Masterpiece Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=220&section=header&text=SANGAM%20SONI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Real-Time%20Systems%20Architect%20%7C%20Playzo%20Pe&descSize=17&descAlignY=62&animation=fadeIn" width="100%" />
+  <!-- Masterpiece Waving Header Banner (FIXED URL) -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,14,35,42&amp;height=210&amp;section=header&amp;text=SANGAM%20SONI&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Founder%20and%20Real-Time%20Systems%20Architect%20-%20Playzo%20Pe&amp;descSize=17&amp;descAlignY=62&amp;animation=fadeIn" width="100%" alt="Sangam Soni Banner" />
+  </p>
 
   <!-- Animated High-Contrast Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%7C+Product+Founder;Founder+at+Playzo+Pe+%26+Zovron+Tech;Architecting+High-Concurrency+Realtime+Systems;Obsessed+with+Sub-50ms+Latency+%26+Zero+Regressions" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%7C+Product+Founder;Founder+at+Playzo+Pe+%26+Zovron+Tech;Architecting+High-Concurrency+Realtime+Systems;Obsessed+with+Sub-50ms+Latency+%26+Zero+Regressions" alt="Typing SVG" />
+    </a>
+  </p>
 
   <!-- Quick Action & Connect Badges -->
   <p align="center">
@@ -113,5 +117,5 @@ As the **Founder & Lead Architect at Zovron Technologies**, I lead the developme
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=90&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,14,35,42&amp;height=90&amp;section=footer" width="100%" />
 </div>
