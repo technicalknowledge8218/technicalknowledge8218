@@ -1,92 +1,117 @@
 <div align="center">
 
-  <!-- Glowing Titanium Aurora Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,34,45&height=180&section=header&text=Hi%20there,%20I'm%20Sangam%20Soni%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Masterpiece Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=220&section=header&text=SANGAM%20SONI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Real-Time%20Systems%20Architect%20%7C%20Playzo%20Pe&descSize=17&descAlignY=62&animation=fadeIn" width="100%" />
 
-  <!-- Animated Typing Taglines in Molten Gold & Emerald -->
+  <!-- Animated High-Contrast Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FDE047&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Realtime+Systems+%26+Socket.io+Expert;MERN+Stack+%7C+Node.js+%2B+React+%2B+Redis;Founder+%26+Lead+Architect+at+Playzo+Pe;High-Concurrency+%26+Sub-50ms+Latency+Obsessed" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%7C+Product+Founder;Founder+at+Playzo+Pe+%26+Zovron+Tech;Architecting+High-Concurrency+Realtime+Systems;Obsessed+with+Sub-50ms+Latency+%26+Zero+Regressions" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Visitor Counter & Glass Badges -->
+  <!-- Quick Action & Connect Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=technicalknowledge8218&style=for-the-badge&color=10b981" alt="Profile Views" />
-    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=technicalknowledge8218&style=for-the-badge&color=2563eb" alt="Profile Views" />
+    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://zovron.playzope.com"><img src="https://img.shields.io/badge/Website-Zovron_Tech-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   </p>
-
-  <!-- Glowing Trophies in Titanium Gold & Emerald Theme -->
-  <img src="https://github-profile-trophy.vercel.app/?username=technicalknowledge8218&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-### 👑 System Terminal & Architecture
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="20" height="20" style="vertical-align: middle;" /> Professional Profile & Executive Narrative
 
-```javascript
-const architect = {
-    name: "Sangam Soni",
-    role: "Full-Stack Software Engineer & Product Architect",
-    coreSpecialties: ["Realtime WebSockets", "Distributed In-Memory Caching", "Zero Downtime Deployments"],
-    flagshipProduct: "Playzo Pe (Interactive Real-Time Gaming & Payments Platform)",
-    currentStack: {
-        frontend: ["React 19", "TypeScript", "TailwindCSS", "Capacitor Mobile"],
-        backend: ["Node.js (Express 5)", "Socket.IO", "BullMQ"],
-        dataTier: ["MongoDB (Mongoose)", "Redis (Pub/Sub & Distributed Cache)", "PostgreSQL"],
-        infra: ["Docker", "Linux / Bash", "Render", "Cloudinary CDN"]
-    },
-    performanceMetrics: {
-        latency: "< 50ms WebSocket state sync",
-        availability: "99.99% zero-downtime architecture",
-        totalCommits: "2,200+ production-grade commits"
-    },
-    creed: "Sub-50ms latency, zero assumptions, and bulletproof fault-tolerant sync."
-};
-```
+I am a **Full-Stack Software Engineer & Technology Entrepreneur** specializing in high-throughput real-time web and mobile architectures. 
+
+As the **Founder & Lead Architect at Zovron Technologies**, I lead the development of **Playzo Pe** — an interactive real-time competitive gaming and digital coin transactions platform. My engineering focus spans low-latency socket networking, distributed in-memory event buses, idempotent financial ledgers, and zero-downtime hot patch pipelines.
+
+- **Real-Time Networking:** Architecting WebSocket clusters handling sub-45ms state synchronizations and concurrent room matchmaking.
+- **Defensive Engineering:** Strict server-authoritative validations, anti-cheat socket checksums, and zero-regression deployment cycles.
+- **Full-Stack Ownership:** Scaling systems from deep database query optimization to 60 FPS mobile client interfaces.
 
 ---
 
-### 🛠️ Engineering Arsenal
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="20" height="20" style="vertical-align: middle;" /> Core Production Architecture: Playzo Pe Engine
 
-| Domain | Tech Stack & Frameworks |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="18" height="18" style="vertical-align: middle;" /> Systems Specifications</h4>
+      <ul>
+        <li><b>State Sync Protocol:</b> Sub-45ms latency event emission utilizing Socket.IO clustering and binary payloads.</li>
+        <li><b>Distributed In-Memory Bus:</b> Redis Pub/Sub for cross-server room broadcasting and high-speed match locks.</li>
+        <li><b>Dynamic Runtime Updates:</b> Zero-downtime live OTA patching via Cloudinary CDN without severing player sessions.</li>
+        <li><b>Wallet Integrity:</b> Idempotent transaction queues ensuring zero duplicate deposits or redemptions.</li>
+      </ul>
+      <p><b>Core Stack:</b> <code>React 19</code> • <code>Node.js 22</code> • <code>Socket.IO</code> • <code>Redis</code> • <code>MongoDB</code> • <code>Capacitor</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="18" height="18" style="vertical-align: middle;" /> Distributed Pipeline Blueprint</h4>
+      <pre>
+┌──────────────────────────────────────────────┐
+│        Client Tier (React 19 / Android)      │
+│        - 60 FPS Event Loop & Live UI         │
+└──────────────────────┬───────────────────────┘
+                       │ WebSocket (Sub-45ms P99)
+                       ▼
+┌──────────────────────────────────────────────┐
+│       Socket.IO Gateway Cluster (Node)       │
+│       - Room Management & Token Auth         │
+└──────────────────────┬───────────────────────┘
+                       │ Distributed Pub/Sub
+                       ▼
+┌──────────────────────────────────────────────┐
+│       In-Memory State Engine (Redis)         │
+│       - Match Locks & Live Matchmaking       │
+└──────────────────────┬───────────────────────┘
+                       │ Idempotent Write-Back
+                       ▼
+┌──────────────────────────────────────────────┐
+│       Persistence Tier (MongoDB Replica)     │
+│       - Player Records, Wallets & Audits     │
+└──────────────────────────────────────────────┘
+      </pre>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="20" height="20" style="vertical-align: middle;" /> Comprehensive Technology Arsenal
+
+| Category | Vector Stack |
 | :--- | :--- |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,bash" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,tailwind,vite,redux" /> |
 | **Backend & Realtime** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,graphql" /> |
-| **DevOps & Tooling** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,bash,linux" /> |
+| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,nginx" /> |
 
 ---
 
-### 📊 Real-Time Metrics & Analytics (Titanium Aurora Palette)
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="20" height="20" style="vertical-align: middle;" /> Real-Time GitHub Productivity & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technicalknowledge8218&show_icons=true&title_color=FDE047&text_color=F1F5F9&icon_color=34D399&border_color=FFFFFF55&bg_color=30,1c2a38,173230&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technicalknowledge8218&theme=radical&background=1C2A38&border=FFFFFF55&stroke=FDE047&ring=34D399&fire=FDE047&currStreakNum=FDE047&sideNums=F1F5F9&dates=CBD5E1" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=technicalknowledge8218&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technicalknowledge8218&theme=radical&hide_border=false" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalknowledge8218&layout=compact&title_color=FDE047&text_color=F1F5F9&border_color=FFFFFF55&bg_color=30,1c2a38,173230&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalknowledge8218&layout=compact&theme=radical&hide_border=false" width="49%" />
 </div>
 
 ---
 
-### 📈 Contribution Activity Wave (Aurora Emerald & Gold)
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" width="20" height="20" style="vertical-align: middle;" /> Live 30-Day Contribution Wave
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=technicalknowledge8218&theme=react-dark&color=FDE047&line=34D399&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=technicalknowledge8218&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Wave Graph" />
 </div>
 
 ---
 
-### 💡 Core Engineering Principles
-* ⚡ **Ultra-Low Latency:** Optimized binary/JSON socket payloads with direct memory pipelining.
-* 🛡️ **Defensive Architecture:** Strict schema validations, idempotent transactions, aur zero regressions.
-* 🔄 **Zero-Downtime Hot Deployments:** Dynamic OTA patch updates without interrupting live gaming matches.
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,34,45&height=90&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=90&section=footer" width="100%" />
 </div>
